@@ -9,11 +9,9 @@
 
 ### 架构设计图
 
-![image-20241120224249509](C:\Users\小赵\AppData\Roaming\Typora\typora-user-images\image-20241120224249509.png)
-
-![image-20241120224309557](C:\Users\小赵\AppData\Roaming\Typora\typora-user-images\image-20241120224309557.png)
-
-![image-20241120224325689](C:\Users\小赵\AppData\Roaming\Typora\typora-user-images\image-20241120224325689.png)
+![image](https://github.com/user-attachments/assets/6cebf681-e2f1-4003-81fa-c8e8427ac838)
+![image](https://github.com/user-attachments/assets/5f1e8c54-802d-44c2-afde-3b355a50bf17)
+![image](https://github.com/user-attachments/assets/eab094e0-9383-419c-a4a2-786841501e13)
 
 以上：COS 为对象存储，如图片资源；
 
@@ -406,7 +404,8 @@ npm get registry
 npm config set registry https://registry.npmmirror.com/
 ```
 
-![image-20241127102904198](C:\Users\小赵\AppData\Roaming\Typora\typora-user-images\image-20241127102904198.png)
+![image](https://github.com/user-attachments/assets/7410b1b4-83bd-4db6-bfd1-689daab7c8f6)
+
 
 然后使用编辑器打开运行 `run dev` ，访问本地3000端口。
 
@@ -428,7 +427,8 @@ npm config set registry https://registry.npmmirror.com/
 
 修改编辑器配置：
 
-![image-20241127110217285](C:\Users\小赵\AppData\Roaming\Typora\typora-user-images\image-20241127110217285.png)
+![image](https://github.com/user-attachments/assets/58cfeee0-167d-4cb4-b392-c601415d9dbf)
+
 
 然后语法校验规则就生效了，代码格式化：Ctrl + Alt + L
 
